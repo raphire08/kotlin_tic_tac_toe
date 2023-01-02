@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-java.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-kotlin.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-headers-java.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-reports-tests.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-test-results.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-tmp.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-Right_Rotation.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-Sum_of_numbers.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-Count_the_numbers.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-The_roots_of_equation.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Beyond_the_word.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Correct_jumping.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Placement_of_ships.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Whole_truth_about_continue.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Processing_strings-Create_an_euphonious_word.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Processing_strings-Determine_the_value.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Processing_strings-The_lucky_ticket.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Processing_strings-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.util.main" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
